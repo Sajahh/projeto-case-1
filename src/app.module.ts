@@ -14,9 +14,9 @@ import { CasesModule } from 'src/cases/cases.module';
     TypeOrmModule.forRoot({
       type: 'postgres',
       host: 'localhost',
-      port: 5432,
-      username: 'postgres',
-      password: 'Parceiro@2023',
+      port: 0000,
+      username: 'usernameDB',
+      password: 'senhaDB',
       database: 'site_parceiro_db',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: false,
