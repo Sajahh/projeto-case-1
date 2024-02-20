@@ -8,3 +8,5 @@ Este projeto representa o backend de uma landing page desenvolvida utilizando Ne
     TypeScript: Linguagem de programação utilizada para desenvolver o backend, oferecendo tipagem estática que facilita a manutenção e escalabilidade do código.
     PostgreSQL: Sistema de gerenciamento de banco de dados relacional utilizado para armazenar e gerenciar os dados necessários para a aplicação.
 
+
+###### _Projeto desenvolvido para empresa Parceiro Soluções_
